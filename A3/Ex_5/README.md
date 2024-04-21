@@ -1,7 +1,5 @@
 EXERCISE 5)
 
-ANSWER TO THE QUESTION:
-
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 Label 0 (T-SHIRT) gets often confused with label 6 (SHIRT)
@@ -25,12 +23,6 @@ Label 8 (BAG) does not get confused with other clothes very often.
 Label 9 (ANKLE BOOT) sometimes gets confused (SNEAKER).
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-I expected the program to make mistakes when it had to compare similar types of clothes such as sneakers and sandals or T-shirts and shirts,
-because their shape is very similar and therefore I imagined that they were likely to be indistinguishable in some cases.
-
-In fact most of the clothes that cover the same body parts get mislabeled sometimes. Trousers and bags are the exception, because they are unique
-(there are no other clothes (classes) that cover the same area of the body).
 
 The model has an accuracy of around 85 %, meaning that it could be improved by finding better hyperparameters.
 
